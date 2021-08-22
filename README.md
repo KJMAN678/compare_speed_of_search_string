@@ -27,9 +27,6 @@ for c in sentence.chars() {
 | ---- | ---- |
 | 0.335秒 | 0.230秒 |
 
-v1 0.335秒経過しました。
-v2 0.230秒経過しました。
-
 - Rust では Python でいうところのスライスのような記載は推奨されていない模様  
 https://rust-lang.github.io/rust-clippy/master/#needless_range_loop
 

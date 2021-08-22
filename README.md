@@ -22,7 +22,7 @@ for c in sentence.chars() {
 }
 ```
 
-- Rust では Python でいうところのスライスのような記載は推奨されていない模様
+- Rust では Python でいうところのスライスのような記載は推奨されていない模様  
 https://rust-lang.github.io/rust-clippy/master/#needless_range_loop
 
 - 時間計測については下記サイト参照  
